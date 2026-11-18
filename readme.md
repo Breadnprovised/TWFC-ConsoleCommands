@@ -1059,3 +1059,7 @@ Saved the Ghidra program after correcting the token parser prototype, creating t
 The accompanying JSON contains all raw parser call sites, table-derived native forms, 415 reflected definitions, argument flags, decompressed package offsets, function-flag offsets, per-package scan counts, and renamed function addresses. The readable command list groups distinct names while retaining every signature.
 
 Package header and export-table handling was cross-checked against [UEViewer's Transformers-specific UE3 reader](https://github.com/gildor2/UEViewer/blob/master/Unreal/UnrealPackage/UnPackage3.cpp). Command findings themselves come from the installed executable and packages.
+
+
+## Disclosure
+This is entirely AI-generated.
